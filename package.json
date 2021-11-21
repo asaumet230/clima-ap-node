@@ -1,0 +1,18 @@
+{
+  "name": "05-clima-app",
+  "version": "1.0.0",
+  "description": "clima App",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Andres Felipe Saumet",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^16.11.7",
+    "axios": "^0.24.0",
+    "colors": "^1.4.0",
+    "dotenv": "^10.0.0",
+    "inquirer": "^8.2.0"
+  }
+}
